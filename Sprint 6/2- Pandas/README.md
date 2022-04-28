@@ -6,8 +6,8 @@
 2- Explain each method ..
 
 
-•	Property/Method 	Description
-•	abs()	Return a DataFrame with the absolute value of each value
+.	Property/Method 	Description
+.	abs()	Return a DataFrame with the absolute value of each value
 •	add()	Adds the values of a DataFrame with the specified value(s)
 •	add_prefix()	Prefix all labels
 •	add_suffix()	Suffix all labels
