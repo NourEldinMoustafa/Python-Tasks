@@ -75,7 +75,7 @@
 |	type()		|	|	Returns the type of an object	|
 |	vars()		|	|	Returns the __dict__ property of an object	|
 |	zip()		|	|	Returns an iterator, from two or more iterators	|
-![image](https://user-images.githubusercontent.com/88113136/165836394-5e54eb49-d985-4f58-b7a9-853af1d980bd.png)
+
 
 
 ***built-in methods  on ((lists/arrays)).***
@@ -107,7 +107,8 @@ update()	Updates the dictionary with the specified key-value pairs
 values()	Returns a list of all the values in the dictionary
 
 ***built-in methods on ((sets)).***
-
+| Function  | Description |
+| ------------- | ------------- |
 |	add()	|	|	Adds an element to the set	|
 |	clear()	|	|	Removes all the elements from the set	|
 |	copy()	|	|	Returns a copy of the set	|
