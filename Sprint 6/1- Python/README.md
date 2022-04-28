@@ -8,10 +8,10 @@
 ***Python has a set of built-in functions..***
 | Function  | Description |
 | ------------- | ------------- |
-|	abs()		|	|	Returns the absolute value of a number	|
-|	all()		|	|	Returns True if all items in an iterable object are true	|
-|	any()		|	|	Returns True if any item in an iterable object is true	|
-|	ascii()		|	|	Returns a readable version of an object. Replaces none-ascii characters with escape character	|
+|abs()|	|Returns the absolute value of a number	|
+|	all()		|	|Returns True if all items in an iterable object are true	|
+|	any()		|	|Returns True if any item in an iterable object is true	|
+|	ascii()	|	|	Returns a readable version of an object. Replaces none-ascii characters with escape character	|
 |	bin()		|	|	Returns the binary version of a number	|
 |	bool()		|	|	Returns the boolean value of the specified object	|
 |	bytearray()		|	|	Returns an array of bytes	|
