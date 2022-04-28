@@ -4,6 +4,8 @@
 
 
 2- Explain each method ..
+
+
 Property/Method 	Description
 abs()	Return a DataFrame with the absolute value of each value
 add()	Adds the values of a DataFrame with the specified value(s)
