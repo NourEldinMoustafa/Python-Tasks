@@ -1,10 +1,10 @@
-1- What ’re the methods that you used ?
-- a set of built-in functions.
--built-in methods  on ((lists/arrays)).
--built-in methods on dictionaries.
--built-in methods on ((sets)).
+#1- What ’re the methods that you used ?
+##- a set of built-in functions.
+##-built-in methods  on ((lists/arrays)).
+##-built-in methods on dictionaries.
+##-built-in methods on ((sets)).
 
-2- Explain each method ..
+#2- Explain each method ..
 ***Python has a set of built-in functions..***
 | Function  | Description |
 | ------------- | ------------- |
@@ -141,5 +141,5 @@
 
 
 
-4- Resources ? 
-https://www.w3schools.com/python/
+#4- Resources ? 
+##[w3schools](https://www.w3schools.com/python/)
