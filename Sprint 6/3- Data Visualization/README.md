@@ -1,6 +1,6 @@
 1- What ’re the methods that you used ?
 
-
+* F
 
 
 2- Explain each method ..
